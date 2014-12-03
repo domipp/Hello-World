@@ -1,0 +1,29 @@
+
+01
+<!DOCTYPE HTML>
+02
+<html>
+03
+<body>
+04
+ 
+05
+  <p>Header...</p>
+06
+ 
+07
+  <script>
+08
+    alert('Hello, World!')
+09
+  </script>
+10
+ 
+11
+  <p>...Footer</p>
+12
+ 
+13
+</body>
+14
+</html>
